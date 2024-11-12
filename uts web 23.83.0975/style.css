@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    padding: 100px 0;
+}
+
+h1 {
+    color: #fff;
+}
+
+footer {
+    background-color: #343a40;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.container {
+    margin-top: 20px;
+}
